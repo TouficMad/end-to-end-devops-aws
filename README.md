@@ -1,6 +1,6 @@
 # End-to-End DevOps on AWS
 
-A small Python API taken all the way from code to production: tested and containerized, provisioned on **AWS EKS with Terraform**, deployed by **GitHub Actions + Helm**, and monitored with **Prometheus + Grafana**.
+A small Python API taken all the way from code to production : tested and containerized, provisioned on **AWS EKS with Terraform**, deployed by **GitHub Actions + Helm**, and monitored with **Prometheus + Grafana**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
